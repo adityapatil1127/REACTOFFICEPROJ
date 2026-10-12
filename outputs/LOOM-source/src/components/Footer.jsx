@@ -1,0 +1,3 @@
+export default function Footer() {
+  return <footer className="site-footer"><div className="wrap footer-top"><a className="brand footer-brand" href="#home">LOOM<span className="brand-mark">.</span></a><p>Minimal essentials for the everyday.</p><nav className="footer-links" aria-label="Footer links"><a href="#categories">Shop</a><a href="#about">About</a><a href="mailto:hello@loom.example">Contact</a><a href="#privacy">Privacy</a></nav><div className="footer-social"><a href="#social" aria-label="Instagram">ig</a><a href="#social" aria-label="Pinterest">p</a><a href="#social" aria-label="TikTok">tk</a></div></div><div className="wrap footer-bottom"><span>© 2026 LOOM. Made for the everyday.</span><a href="#home">Back to top ↑</a></div></footer>;
+}
